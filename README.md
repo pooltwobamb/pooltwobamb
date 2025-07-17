@@ -7,15 +7,15 @@
 </br>
 <p align="center">
 <samp>
-I'm Paul. A social scientist from the UK transitioning out of academia to pursue a career in data science and research.
+My name is Fernando and I am currently a programming student, with a strong interest in joining a multinational company that allows me to enrich my knowledge and grow professionally.
 </samp>
 </br></br>
 <samp>
-As a political scientist, my research interests are centered around party and party system change, particularly the development of new political parties in established systems. However, I am broadly interested in applying machine learning techniques to modeling human behavior. Outside of social science, I am passionate about a variety of topics, one of which is sports analytics.
+As a continuous learning enthusiast, I focus on studying the most widely used programming languages today, with special attention to Python, both for developing solutions with artificial intelligence and machine learning, as well as for automating repetitive tasks, optimizing processes that would normally take a lot of time.
 </samp>
 </br></br>
 <samp>
-My skill set combines a formal education in statistics and quantitative methods and a passion for coding and computing. I am comfortable using a variety of machine learning tools, and my specialty lies in causal inference, NLP, and predictive modeling. However, I continue to be enthusiastic about developing my existing skills and expanding my knowledge of the field.
+Currently, I have an intermediate proficiency (around 60%) in technologies such as HTML5, CSS, Python, SQL, and Google Colab, in which I am constantly in the process of honing these skills.
 </samp>
 </p>
 <samp>
