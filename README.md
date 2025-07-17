@@ -22,10 +22,3 @@ My skill set combines a formal education in statistics and quantitative methods 
 <br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-
-  8+ years professional experience as software developer. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/java.svg" alt="" height="20"> Java expert. <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/kotlin.svg" alt="" height="20"> Kotlin enthusiast. Specialised in backend development and build management.
-
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
-
-Steadily growing into people management and recently into <img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/angular.svg" alt="" height="20"> Angular.
